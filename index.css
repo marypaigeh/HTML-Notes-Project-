@@ -2,5 +2,15 @@ body{
     font-family: monospace;
 }
 h1{
-    color:rgb(32, 178, 170)
+    color:rgb(32, 178, 170);
+}
+table, th{
+    border: 2px solid rgb(32, 178, 170);
+}
+td{
+    border-top: 1px solid rgb(32, 178, 170);
+}
+
+.CSS-notes {
+    color: rgb(186,85,211);
 }
