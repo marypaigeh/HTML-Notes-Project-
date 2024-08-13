@@ -4,13 +4,32 @@ body{
 h1{
     color:rgb(32, 178, 170);
 }
-table, th{
+.first-table{
+    border: 2px solid rgb(32, 178, 170);
+}
+
+.first-tableData{
+    border-top: 1px solid rgb(32, 178, 170);
+}
+/*table, th{
     border: 2px solid rgb(32, 178, 170);
 }
 td{
     border-top: 1px solid rgb(32, 178, 170);
-}
+}*/
 
 .CSS-notes {
     color: rgb(186,85,211);
+}
+
+.code{
+    background-color: rgb(255,235,205);
+    text-align: center;
+}
+
+.CSS-table{
+    border: 2px solid rgb(186,85,211);
+}
+.CSS-tableData td{
+    border-top: 1px solid rgb(186,85,211);
 }
